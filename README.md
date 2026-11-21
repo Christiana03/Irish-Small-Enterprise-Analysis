@@ -1,5 +1,5 @@
 # Are Ireland's Small Enterprises at Risk?
-The project uses storytelling through data visualisation to uncover patterns in Ireland's small business landscape, explore changes in enterprise survival and communicate what the data reveals about the challenges facing small enterprises.
+This project uses storytelling through data visualisation to uncover patterns in Ireland's small business landscape, explore changes in enterprise survival and communicate what the data reveals about the challenges facing small enterprises.
 
 ## Project Overview
 An exploratory analysis of Irish small enterprise demography, examining enterprise births, deaths and survival trends between 2015 and 2020 using data from the Central Statistics Office (CSO).
